@@ -1,2 +1,3 @@
+com\app\runnables\AppThread.class
 com\app\tests\Test.class
-Javaseconcurrency.class
+com\app\tests\TestThreads.class
