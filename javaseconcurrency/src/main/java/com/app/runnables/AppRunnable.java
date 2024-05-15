@@ -16,7 +16,7 @@ import java.util.logging.Logger;
  *
  * @author WaterShurikenNinja
  */
-public class AppThread extends Thread {
+public class AppRunnable implements Runnable {
 
     @Override
     public void run() {
@@ -31,5 +31,4 @@ public class AppThread extends Thread {
             Logger.getLogger(AppThread.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-    
 }

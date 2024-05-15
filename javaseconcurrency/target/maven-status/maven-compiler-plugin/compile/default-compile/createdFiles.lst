@@ -1,3 +1,5 @@
-com\app\runnables\AppThread.class
 com\app\tests\Test.class
 com\app\tests\TestThreads.class
+com\app\runnables\AppRunnable.class
+com\app\runnables\AppThread.class
+com\app\tests\TestRunnable.class
